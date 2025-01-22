@@ -26,7 +26,7 @@ The dataset used in this article was generated based on a transfer probability m
 
 - We set each time slot to `2` minutes, a time block consists of `T = 720` time slots, corresponding to `24` hours. We consider `n = 5` different house appliances.
 
-You may find more information on how to generate the datasets in the [data]([experiment/data at main · tjruan/experiment](https://github.com/tjruan/experiment/tree/main/data)) folder.
+You may find more information on how to generate the datasets in the [data](https://github.com/tjruan/experiment/tree/main/data) folder.
 
 ## Train
 
